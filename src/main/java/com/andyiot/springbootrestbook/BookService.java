@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.HashMap;
 import org.springframework.stereotype.Service;  
 
-/* concreate class that implements the IBookServer interface to handle
+/* concrete class that implements the IBookServer interface to handle
 *  all required RESTful APIs
 */
 @Service  
